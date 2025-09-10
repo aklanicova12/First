@@ -5,7 +5,7 @@ for letter in user_input:
 
 print(f"Letter has {len(user_input)} marks.")
 
-# Nech uživatele něco napsat a poté vzpiš co napsal pod sebe.
+# Nech něco napsat a poté vzpiš co napsal pod sebe.
 # Poté spočítej všechny proměnné a součet napiš do věty.
 
 # ahoj
