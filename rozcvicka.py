@@ -9,4 +9,5 @@ print(f"Letter has {len(user_input)} marks.")
 # Poté spočítej všechny proměnné a součet napiš do věty.
 
 # ahoj
+jjjj
 
